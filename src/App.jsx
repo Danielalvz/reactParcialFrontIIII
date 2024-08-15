@@ -36,21 +36,3 @@ function App() {
 }
 
 export default App;
-  // const [animals, setAnimals] = useState([]);
-
-  // const handleFormSubmit = (newAnimal) => {
-  //   setAnimals([...animals, newAnimal]);
-  // };
-
-
-  // return (
-  //   <div className="App">
-  //     <h1>Registro de Animales</h1>
-  //     <Form onSubmit={handleFormSubmit} />
-  //     <div className="animal-list">
-  //       {animals.map((animal, index) => (
-  //         <Card key={index} animal={animal} />
-  //       ))}
-  //     </div>
-  //   </div>
-  // );
